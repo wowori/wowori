@@ -1,3 +1,3 @@
-<h1 align="center">hi!, imma <a href="[https://daniilshat.ru/](https://wowori.vercel.app/)" target="_blank">wowori</a>           
+# hi!, imma [Wowori](https://github.com/wow0ri)     
                                                  
-[![GitHub Streak](https://streak-stats.demolab.com?user=wow0ri&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
